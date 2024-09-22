@@ -133,7 +133,7 @@
 &trans  &trans  &trans  &trans  &trans  &bootloader  &trans  &kp C_VOLUME_DOWN  &kp C_MUTE        &kp C_VOLUME_UP  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &soft_off    &trans  &kp C_PREVIOUS     &kp C_PLAY_PAUSE  &kp C_NEXT       &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &studio_unlock       &trans  &trans             &trans            &trans           &trans  &trans
-                        &trans  &trans  &trans       &trans  &trans             &trans
+                        &trans  &trans  &ext_power EP_OFF       &trans  &trans             &trans
             >;
         };
     };
