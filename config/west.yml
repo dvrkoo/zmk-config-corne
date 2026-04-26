@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: v0.1 # Pins to ZMK v0.2 (Stable, Pre-Zephyr 4.1)
+      revision: v0.3.0 # Pins to ZMK v0.3.0
       import: app/west.yml
   self:
     path: config
